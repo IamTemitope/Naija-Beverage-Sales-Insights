@@ -1,0 +1,9 @@
+promotion_id,product_id,description,discount_percent,start_date,end_date
+PR001,P010,Easter Sale,5,2024-02-03,2024-02-11
+PR002,P001,Easter Sale,17,2024-03-05,2024-03-14
+PR003,P009,New Year Promo,18,2024-03-30,2024-04-10
+PR004,P002,Independence Day Discount,13,2024-01-11,2024-01-20
+PR005,P002,Independence Day Discount,9,2024-03-09,2024-03-19
+PR006,P007,Easter Sale,14,2024-03-30,2024-04-10
+PR007,P004,Easter Sale,12,2024-01-12,2024-01-23
+PR008,P002,New Year Promo,6,2024-02-09,2024-02-24

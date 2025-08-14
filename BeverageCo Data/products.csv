@@ -1,0 +1,11 @@
+product_id,name,category,size,price
+P001,Coca-Cola,Soft Drink,50cl,150
+P002,Pepsi,Soft Drink,50cl,140
+P003,Fanta,Soft Drink,50cl,150
+P004,Sprite,Soft Drink,50cl,150
+P005,Mirinda,Soft Drink,50cl,140
+P006,Eva Water,Water,75cl,100
+P007,Aquafina,Water,75cl,100
+P008,5Alive Juice,Juice,1L,500
+P009,Chivita Juice,Juice,1L,550
+P010,Maltina,Malt Drink,33cl,200
