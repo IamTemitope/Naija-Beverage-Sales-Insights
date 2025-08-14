@@ -14,7 +14,7 @@ BeverageCo Nigeria is a simulated FMCG case study designed to analyze sales, dis
 ---
 
 ## 🗂️ Database Schema (ERD)
-![ERD](./images/beverageco-erd.png)  
+![ERD](BeverageCo%20ERD.png)  
 *Entity Relationship Diagram showing Products, Distributors, Customers, Orders, and Inventory.*
 
 ---
